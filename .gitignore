@@ -1,0 +1,16 @@
+# Virtual environment
+PDF_Chatbot-env/
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+
+# Jupyter / Streamlit
+.ipynb_checkpoints/
